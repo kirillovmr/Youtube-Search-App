@@ -10,6 +10,29 @@
 * Instant content update on changing search term
 * Working with YouTube API v3
 
+## How To Use
+
+To clone and run this application, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
+Run in console:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/kirillovmr/Youtube-Search-App
+
+# Go into the repository
+$ cd Youtube-Search-App
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+## Download
+
+You can [download](https://github.com/kirillovmr/Youtube-Search-App/archive/master.zip) the latest version.
+
 ## Credits
 
 This software uses the following open source packages:
